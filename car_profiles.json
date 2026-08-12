@@ -1,0 +1,282 @@
+{
+  "343_warthog_15": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 21:42",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(0,64,0)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "acu_integrar_01": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 21:43",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(255,0,0)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "acu_nsxtypes_22": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 21:43",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(0,0,128)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "acu_rsxtypes_02": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 21:43",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(0,255,220)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "ast_vantage_18": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 21:43",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(0,255,60)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "aud_rs6avant_21": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 21:44",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(142,15,255)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "bmw_m1_81": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 21:44",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(255,0,0)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "dod_chargersrthellcat_15": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 21:44",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(255,204,69)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "fer_f12tdf_15": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 22:01",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(255,0,0)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "fer_f40competizione_89": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 22:01",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(255,40,0)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "fer_fxxkevo_18": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 22:01",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(255,255,255)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "fer_fxxkevowp_18": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 22:01",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(153,0,255)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "for_f150fe_83": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 22:01",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(255,0,0)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "for_mustangdarkhorse_24": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 22:02",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(33,13,255)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "hon_civictyper_97": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 22:02",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(31,39,255)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "hon_s2000_03": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 22:02",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(255,0,250)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "lam_huracan_15": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 22:02",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(255,216,0)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "maz_rx8r3_11": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 22:03",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(255,0,249)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "mer_190e_90": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 22:03",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(255,200,0)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "mer_190efe_90": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 22:03",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(255,200,0)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "mit_lancerevoviiimr_04": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 22:04",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(253,255,0)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "nis_gtrnismo_24": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 22:05",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(0,255,60)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "nis_silviaks_89": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 22:05",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(255,9,221)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "nis_silviaspecr_02": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 22:05",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(255,0,0)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "nis_skylinegtr_97": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 22:06",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(0,255,229)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "sub_wrxsti_04": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 22:06",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(255,216,0)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "toy_suprarz_98": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-11 22:07",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(57,255,20)  hash=0xfcbf0fa0"
+      }
+    ]
+  },
+  "maz_rx7_92": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-12 00:11",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(255,89,0)  hash=0xe93d0a73"
+      }
+    ]
+  }
+}
