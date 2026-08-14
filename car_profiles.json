@@ -278,5 +278,35 @@
         "detalhes": "RGB=(255,89,0)  hash=0xe93d0a73"
       }
     ]
+  },
+  "nis_r390_98": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-12 21:11",
+        "acao": "Lado espelhado",
+        "detalhes": "referencia=positive, faixa=carro inteiro"
+      },
+      {
+        "data": "2026-08-12 21:10",
+        "acao": "Lado espelhado",
+        "detalhes": "referencia=negative, faixa=carro inteiro"
+      },
+      {
+        "data": "2026-08-12 20:45",
+        "acao": "Underglow criado",
+        "detalhes": "cor=(0,100,255), escala_comp=1.0977, escala_larg=1.0, path=game:\\media\\cars\\nis_r390_98\\scene\\exterior\\chassis\\undercarriage_a.modelbin"
+      }
+    ]
+  },
+  "nis_silviaks_98": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-13 00:21",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(128,0,0)  hash=0xfcbf0fa0"
+      }
+    ]
   }
 }
