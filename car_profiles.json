@@ -308,5 +308,50 @@
         "detalhes": "RGB=(128,0,0)  hash=0xfcbf0fa0"
       }
     ]
+  },
+  "bmw_m4_14": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-15 02:19",
+        "acao": "Lado espelhado",
+        "detalhes": "referencia=negative, faixa=carro inteiro"
+      },
+      {
+        "data": "2026-08-15 02:03",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(0,0,128)  hash=0xfcbf0fa0"
+      },
+      {
+        "data": "2026-08-15 02:02",
+        "acao": "Lado espelhado",
+        "detalhes": "referencia=positive, faixa=carro inteiro"
+      },
+      {
+        "data": "2026-08-15 01:54",
+        "acao": "Underglow criado",
+        "detalhes": "cor=(0,100,255), escala_comp=1.0863, escala_larg=1.0, path=game:\\media\\cars\\bmw_m4_14\\scene\\exterior\\chassis\\undercarriage_a.modelbin"
+      },
+      {
+        "data": "2026-08-14 19:38",
+        "acao": "Lado espelhado",
+        "detalhes": "referencia=positive, faixa=carro inteiro"
+      },
+      {
+        "data": "2026-08-14 12:05",
+        "acao": "Underglow criado",
+        "detalhes": "cor=(0,0,128), escala_comp=1.0863, escala_larg=1.0, path=game:\\media\\cars\\bmw_m4_14\\scene\\exterior\\chassis\\undercarriage_a.modelbin"
+      },
+      {
+        "data": "2026-08-14 12:03",
+        "acao": "Underglow criado",
+        "detalhes": "cor=(0,0,128), escala_comp=1.0863, escala_larg=1.0, path=game:\\media\\cars\\bmw_m4_14\\scene\\exterior\\chassis\\undercarriage_a.modelbin"
+      },
+      {
+        "data": "2026-08-14 12:01",
+        "acao": "Underglow criado",
+        "detalhes": "cor=(0,0,128), escala_comp=1.0, escala_larg=1.0, path=game:\\media\\cars\\bmw_m4_14\\scene\\exterior\\chassis\\undercarriage_a.modelbin"
+      }
+    ]
   }
 }
