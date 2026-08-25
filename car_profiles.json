@@ -43,6 +43,11 @@
     "historico": [],
     "eventos": [
       {
+        "data": "2026-08-24 23:07",
+        "acao": "Underglow criado",
+        "detalhes": "cor=(0,255,60), escala_comp=1.0616, escala_larg=1.0, path=game:\\media\\cars\\ast_vantage_18\\scene\\exterior\\chassis\\undercarriage_a.modelbin"
+      },
+      {
         "data": "2026-08-11 21:43",
         "acao": "Cor alterada",
         "detalhes": "RGB=(0,255,60)  hash=0xfcbf0fa0"
@@ -83,6 +88,11 @@
     "historico": [],
     "eventos": [
       {
+        "data": "2026-08-25 11:50",
+        "acao": "Underglow criado",
+        "detalhes": "cor=(255,0,0), escala_comp=1.0, escala_larg=1.0, path=game:\\media\\cars\\fer_f12tdf_15\\scene\\exterior\\platform\\body_a.modelbin"
+      },
+      {
         "data": "2026-08-11 22:01",
         "acao": "Cor alterada",
         "detalhes": "RGB=(255,0,0)  hash=0xfcbf0fa0"
@@ -92,6 +102,11 @@
   "fer_f40competizione_89": {
     "historico": [],
     "eventos": [
+      {
+        "data": "2026-08-25 11:42",
+        "acao": "Underglow criado",
+        "detalhes": "cor=(255,40,0), escala_comp=1.0, escala_larg=1.0, path=game:\\media\\cars\\fer_f40competizione_89\\scene\\exterior\\platform\\body_a.modelbin"
+      },
       {
         "data": "2026-08-11 22:01",
         "acao": "Cor alterada",
@@ -123,6 +138,11 @@
     "historico": [],
     "eventos": [
       {
+        "data": "2026-08-25 11:54",
+        "acao": "Underglow criado",
+        "detalhes": "cor=(255,0,0), escala_comp=1.0, escala_larg=1.0, path=game:\\media\\cars\\for_f150fe_83\\scene\\exterior\\platform\\body_a.modelbin"
+      },
+      {
         "data": "2026-08-11 22:01",
         "acao": "Cor alterada",
         "detalhes": "RGB=(255,0,0)  hash=0xfcbf0fa0"
@@ -133,6 +153,11 @@
     "historico": [],
     "eventos": [
       {
+        "data": "2026-08-21 03:26",
+        "acao": "Underglow criado",
+        "detalhes": "cor=(33,13,255), escala_comp=1.0, escala_larg=1.0, path=game:\\media\\cars\\for_mustangdarkhorse_24\\scene\\exterior\\chassis\\undercarriage_a.modelbin"
+      },
+      {
         "data": "2026-08-11 22:02",
         "acao": "Cor alterada",
         "detalhes": "RGB=(33,13,255)  hash=0xfcbf0fa0"
@@ -142,6 +167,11 @@
   "hon_civictyper_97": {
     "historico": [],
     "eventos": [
+      {
+        "data": "2026-08-25 11:56",
+        "acao": "Underglow criado",
+        "detalhes": "cor=(31,39,255), escala_comp=1.0, escala_larg=1.0, path=game:\\media\\cars\\hon_civictyper_97\\scene\\exterior\\chassis\\undercarriage.modelbin"
+      },
       {
         "data": "2026-08-11 22:02",
         "acao": "Cor alterada",
@@ -173,6 +203,11 @@
     "historico": [],
     "eventos": [
       {
+        "data": "2026-08-25 12:13",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(255,200,0)  hash=0xfcbf0fa0"
+      },
+      {
         "data": "2026-08-11 22:03",
         "acao": "Cor alterada",
         "detalhes": "RGB=(255,0,249)  hash=0xfcbf0fa0"
@@ -183,6 +218,11 @@
     "historico": [],
     "eventos": [
       {
+        "data": "2026-08-25 12:16",
+        "acao": "Underglow criado",
+        "detalhes": "cor=(255,200,0), escala_comp=1.0, escala_larg=1.0, path=game:\\media\\cars\\mer_190e_90\\scene\\exterior\\chassis\\undercarriage.modelbin"
+      },
+      {
         "data": "2026-08-11 22:03",
         "acao": "Cor alterada",
         "detalhes": "RGB=(255,200,0)  hash=0xfcbf0fa0"
@@ -192,6 +232,11 @@
   "mer_190efe_90": {
     "historico": [],
     "eventos": [
+      {
+        "data": "2026-08-25 12:17",
+        "acao": "Underglow criado",
+        "detalhes": "cor=(255,200,0), escala_comp=1.0, escala_larg=1.0, path=game:\\media\\cars\\mer_190efe_90\\scene\\exterior\\chassis\\undercarriage.modelbin"
+      },
       {
         "data": "2026-08-11 22:03",
         "acao": "Cor alterada",
@@ -273,6 +318,11 @@
     "historico": [],
     "eventos": [
       {
+        "data": "2026-08-18 11:01",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(255,0,0)  hash=0xe93d0a73"
+      },
+      {
         "data": "2026-08-12 00:11",
         "acao": "Cor alterada",
         "detalhes": "RGB=(255,89,0)  hash=0xe93d0a73"
@@ -282,6 +332,11 @@
   "nis_r390_98": {
     "historico": [],
     "eventos": [
+      {
+        "data": "2026-08-21 16:18",
+        "acao": "Underglow criado",
+        "detalhes": "cor=(0,100,255), escala_comp=1.0977, escala_larg=1.0, path=game:\\media\\cars\\nis_r390_98\\scene\\exterior\\chassis\\undercarriage_a.modelbin"
+      },
       {
         "data": "2026-08-12 21:11",
         "acao": "Lado espelhado",
@@ -303,6 +358,21 @@
     "historico": [],
     "eventos": [
       {
+        "data": "2026-08-21 04:29",
+        "acao": "Lado espelhado",
+        "detalhes": "referencia=positive, faixa=carro inteiro"
+      },
+      {
+        "data": "2026-08-21 03:37",
+        "acao": "Underglow criado",
+        "detalhes": "cor=(0,0,128), escala_comp=1.0512, escala_larg=1.0, path=game:\\media\\cars\\nis_silviaks_98\\scene\\exterior\\chassis\\undercarriage_a.modelbin"
+      },
+      {
+        "data": "2026-08-21 03:36",
+        "acao": "Underglow criado",
+        "detalhes": "cor=(0,0,128), escala_comp=1.0512, escala_larg=1.0, path=game:\\media\\cars\\nis_silviaks_98\\scene\\exterior\\chassis\\undercarriage_a.modelbin"
+      },
+      {
         "data": "2026-08-13 00:21",
         "acao": "Cor alterada",
         "detalhes": "RGB=(128,0,0)  hash=0xfcbf0fa0"
@@ -312,6 +382,21 @@
   "bmw_m4_14": {
     "historico": [],
     "eventos": [
+      {
+        "data": "2026-08-25 16:50",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(0,0,128)  hash=0xfcbf0fa0"
+      },
+      {
+        "data": "2026-08-25 11:48",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(0,255,60)  hash=0xfcbf0fa0"
+      },
+      {
+        "data": "2026-08-21 03:31",
+        "acao": "Underglow criado",
+        "detalhes": "cor=(0,0,128), escala_comp=1.0, escala_larg=1.0, path=game:\\media\\cars\\bmw_m4_14\\scene\\exterior\\chassis\\undercarriage_a.modelbin"
+      },
       {
         "data": "2026-08-15 02:19",
         "acao": "Lado espelhado",
@@ -351,6 +436,171 @@
         "data": "2026-08-14 12:01",
         "acao": "Underglow criado",
         "detalhes": "cor=(0,0,128), escala_comp=1.0, escala_larg=1.0, path=game:\\media\\cars\\bmw_m4_14\\scene\\exterior\\chassis\\undercarriage_a.modelbin"
+      }
+    ]
+  },
+  "por_992_19": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-15 12:31",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(128,0,0)  hash=0xfcbf0fa0"
+      },
+      {
+        "data": "2026-08-15 12:31",
+        "acao": "Lado espelhado",
+        "detalhes": "referencia=positive, faixa=carro inteiro"
+      },
+      {
+        "data": "2026-08-15 12:12",
+        "acao": "Underglow criado",
+        "detalhes": "cor=(255,0,0), escala_comp=1.0977, escala_larg=1.0, path=game:\\media\\cars\\por_992_19\\scene\\exterior\\platform\\body_a.modelbin"
+      }
+    ]
+  },
+  "che_corvettezr1_09": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-17 20:35",
+        "acao": "Lado espelhado",
+        "detalhes": "referencia=positive, faixa=carro inteiro"
+      },
+      {
+        "data": "2026-08-17 20:24",
+        "acao": "Underglow criado",
+        "detalhes": "cor=(0,255,60), escala_comp=1.0407, escala_larg=1.0, path=game:\\media\\cars\\che_corvettezr1_09\\scene\\exterior\\chassis\\undercarriage_a.modelbin"
+      }
+    ]
+  },
+  "mit_eclipsegsx_95": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-19 07:21",
+        "acao": "Underglow criado",
+        "detalhes": "cor=(0,255,60), escala_comp=1.0174, escala_larg=1.0, path=game:\\media\\cars\\mit_eclipsegsx_95\\scene\\exterior\\chassis\\undercarriage_a.modelbin"
+      }
+    ]
+  },
+  "mcl_650sspider_14": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-20 05:26",
+        "acao": "Lado espelhado",
+        "detalhes": "referencia=positive, faixa=carro inteiro"
+      },
+      {
+        "data": "2026-08-20 00:00",
+        "acao": "Underglow criado",
+        "detalhes": "cor=(0,100,255), escala_comp=1.0, escala_larg=1.0, path=game:\\media\\cars\\mcl_650sspider_14\\scene\\exterior\\platform\\body_a.modelbin"
+      },
+      {
+        "data": "2026-08-19 23:59",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(0,100,255)  hash=0xe95c9fdb"
+      }
+    ]
+  },
+  "che_corvettez06_02": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-23 21:55",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(64,0,128)  hash=0xfcbf0fa0"
+      },
+      {
+        "data": "2026-08-23 21:55",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(64,0,128)  hash=0xfcbf0fa0"
+      },
+      {
+        "data": "2026-08-23 21:52",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(128,0,255)  hash=0xfcbf0fa0"
+      },
+      {
+        "data": "2026-08-23 21:49",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(13,0,26)  hash=0xfcbf0fa0"
+      },
+      {
+        "data": "2026-08-23 21:44",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(18,0,36)  hash=0xfcbf0fa0"
+      },
+      {
+        "data": "2026-08-23 18:11",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(16,0,32)  hash=0xfcbf0fa0"
+      },
+      {
+        "data": "2026-08-23 18:09",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(33,0,66)  hash=0xfcbf0fa0"
+      },
+      {
+        "data": "2026-08-23 18:07",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(64,0,128)  hash=0xfcbf0fa0"
+      },
+      {
+        "data": "2026-08-23 18:04",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(142,15,255)  hash=0xfcbf0fa0"
+      },
+      {
+        "data": "2026-08-23 17:59",
+        "acao": "Lado espelhado",
+        "detalhes": "referencia=positive, faixa=carro inteiro"
+      },
+      {
+        "data": "2026-08-23 17:47",
+        "acao": "Underglow criado",
+        "detalhes": "cor=(170,0,255), escala_comp=1.0616, escala_larg=1.0, path=game:\\media\\cars\\che_corvettez06_02\\scene\\exterior\\chassis\\undercarriage.modelbin"
+      },
+      {
+        "data": "2026-08-23 17:45",
+        "acao": "Underglow criado",
+        "detalhes": "cor=(64,0,64), escala_comp=1.0616, escala_larg=1.0, path=game:\\media\\cars\\che_corvettez06_02\\scene\\exterior\\chassis\\undercarriage.modelbin"
+      }
+    ]
+  },
+  "bmw_e46m3_05": {
+    "historico": [],
+    "eventos": [
+      {
+        "data": "2026-08-25 11:46",
+        "acao": "Underglow criado",
+        "detalhes": "cor=(0,100,255), escala_comp=1.0, escala_larg=1.0, path=game:\\media\\cars\\bmw_e46m3_05\\scene\\exterior\\chassis\\undercarriage_a.modelbin"
+      },
+      {
+        "data": "2026-08-25 11:45",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(0,100,255)  hash=0xfcbf0fa0"
+      },
+      {
+        "data": "2026-08-24 23:48",
+        "acao": "Underglow duplicado para nova peca",
+        "detalhes": "de 'game:\\media\\cars\\bmw_e46m3_05\\scene\\exterior\\chassis\\undercarriage_a.modelbin' para 'game:\\media\\cars\\SEU_CARRO\\scene\\exterior\\PASTA\\arquivo.modelbin' (87 pontos, offset X=0.0 Y=0.0 Z=0.0)"
+      },
+      {
+        "data": "2026-08-24 23:38",
+        "acao": "Cor alterada",
+        "detalhes": "RGB=(0,255,255)  hash=0xfcbf0fa0"
+      },
+      {
+        "data": "2026-08-24 23:38",
+        "acao": "Lado espelhado",
+        "detalhes": "referencia=positive, faixa=carro inteiro"
+      },
+      {
+        "data": "2026-08-24 23:26",
+        "acao": "Underglow criado",
+        "detalhes": "cor=(0,255,60), escala_comp=1.0447, escala_larg=1.0, path=game:\\media\\cars\\bmw_e46m3_05\\scene\\exterior\\chassis\\undercarriage_a.modelbin"
       }
     ]
   }
